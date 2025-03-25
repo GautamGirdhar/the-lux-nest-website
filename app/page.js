@@ -3,7 +3,7 @@ import Image from "next/image";
 import bg from "@/public/bg.png";
 
 export const metadata = {
-  title: "Login",
+  title: "The-Luxe-Nest",
 };
 
 export default function Home() {
